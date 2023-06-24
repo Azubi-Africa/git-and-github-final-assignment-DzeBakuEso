@@ -1,4 +1,5 @@
 # Git-and-GitHub-final-assignment
+My 3 repositories has been created
 This template repository hosts the final Git & GitHub assignment.
 
 ## Description
@@ -20,9 +21,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Random forest regressor             | trainig model on california housing project             |  https://github.com/DzeBakuEso/Random_Forest_regressor.git      |
+| 2 |  Mnist_data_Set             |  here we use the stochastic gradient descent on the housing date set             | https://github.com/DzeBakuEso/Mnist_Data_Repository.git       |
+| 3 | Linear regression              |  this project explains how linear regression is model is trained             |  https://github.com/DzeBakuEso/Linear_regression.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
